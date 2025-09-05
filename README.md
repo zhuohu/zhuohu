@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zhuohu
-- 👀 I’m interested in reliability of existing prestressed concrete bridges.
-- 🌱 I’m currently learning dynamic bayesian network using Matlab toolbox.
+- 👀 I’m interested in reliability and durability analysis in bridge engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zhuohuhz@outlook.com
 
